@@ -12,3 +12,4 @@
 127.0.0.1 service.videoplaza.tv
 127.0.0.1 adtomafusion.net
 127.0.0.1 pliing.com
+127.0.0.1 cloudflare.com
