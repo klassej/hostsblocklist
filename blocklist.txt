@@ -13,3 +13,4 @@
 127.0.0.1 adtomafusion.net
 127.0.0.1 pliing.com
 127.0.0.1 cloudflare.com
+127.0.0.1 d9v72urx9pbbc.cloudfront.net
