@@ -18,3 +18,4 @@
 127.0.0.1 beblia.com
 127.0.0.1 bn-01.adtomafusion.net
 127.0.0.1 clk.tradedoubler.com
+127.0.0.1 pixel.advertising.com
