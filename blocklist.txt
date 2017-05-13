@@ -16,5 +16,4 @@
 127.0.0.1 d9v72urx9pbbc.cloudfront.net
 127.0.0.1 www.beblia.com
 127.0.0.1 beblia.com
-127.0.0.1 fusion.di.se
 127.0.0.1 bn-01.adtomafusion.net
