@@ -23,4 +23,3 @@
 127.0.0.1 www.hmads.se
 127.0.0.1 leads.reco.se
 127.0.0.1 vp.videoplaza.tv
-127.0.0.1 5e528.v.fwmrm.net
