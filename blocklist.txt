@@ -1,7 +1,10 @@
 #norra halland
-aka-cdn-ns.adtech.de
-mlpimagearchive.s3.amazonaws.com
-aonmedia.s3-eu-west-1.amazonaws.com
+127.0.0.1 aka-cdn-ns.adtech.de
+127.0.0.1 mlpimagearchive.s3.amazonaws.com
+127.0.0.1 aonmedia.s3-eu-west-1.amazonaws.com
+127.0.0.1 cdn.adonstudio.com
+127.0.0.1 studio.adonnews.com
+127.0.0.1 plugin.adonnews.com
 #expressen.se
 127.0.0.1 annonswebb.expressen.se
 127.0.0.1 fusion.expressen.se
