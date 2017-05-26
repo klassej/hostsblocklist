@@ -1,6 +1,7 @@
 #norra halland
 aka-cdn-ns.adtech.de
 mlpimagearchive.s3.amazonaws.com
+aonmedia.s3-eu-west-1.amazonaws.com
 #expressen.se
 127.0.0.1 annonswebb.expressen.se
 127.0.0.1 fusion.expressen.se
