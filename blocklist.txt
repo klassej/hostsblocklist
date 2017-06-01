@@ -1,3 +1,16 @@
+#ios
+127.0.0.1 5461014.fls.doubleclick.net
+127.0.0.1 sting.de17a.com
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 wd.adcolony.com
+127.0.0.1 videoadscloud-a.akamaihd.net
+127.0.0.1 cloudads-a.akamaihd.net
+127.0.0.1 a1620.g2.akamai.net
+127.0.0.1 e5019.e2.akamaiedge.net
+127.0.0.1 dualstack.stadium-1519500367.us-east-1.elb.amazonaws.com
+127.0.0.1 e6858.dsce9.akamaiedge.net
+127.0.0.1 e4478.a.akamaiedge.net
 #norra halland
 127.0.0.1 aka-cdn-ns.adtech.de
 127.0.0.1 mlpimagearchive.s3.amazonaws.com
@@ -14,7 +27,7 @@
 # TV4
 127.0.0.1 service.videoplaza.tv
 127.0.0.1 vp.videoplaza.tv
-# misc (incl. nyteknik.se & dn.se)
+# misc (incl. gp.se, nyteknik.se & dn.se)
 127.0.0.1 adtomafusion.net
 127.0.0.1 cloudfront.net
 127.0.0.1 addealsnetwork.com
