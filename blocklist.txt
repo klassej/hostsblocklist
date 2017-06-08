@@ -1,3 +1,7 @@
+#forum
+127.0.0.1 cdn-g.adten.eu
+127.0.0.1 cdn-e.adten.eu
+127.0.0.1 cdn-h.adten.eu
 #ios
 127.0.0.1 5461014.fls.doubleclick.net
 127.0.0.1 sting.de17a.com
