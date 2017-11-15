@@ -50,8 +50,29 @@
 127.0.0.1 adtech.de
 127.0.0.1 www.hmads.se
 127.0.0.1 leads.reco.se
-securepubads.g.doubleclick.net
-resources.host.bannerflow.com
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 resources.host.bannerflow.com
+127.0.0.1 s0.2mdn.net
+127.0.0.1 bs.serving-sys.com
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 track.adform.net
+127.0.0.1 s1.adform.net
+127.0.0.1 track.adform.net
+127.0.0.1 s1.adform.net
+127.0.0.1 x.bidswitch.net
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 d5p.de17a.com
+127.0.0.1 sync.clickonometrics.pl
+127.0.0.1 ib.adnxs.com
+127.0.0.1 ma.wp.pl
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 www.ninjacasino.com
+127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 adservice.google.com
+
+
 #youtube test
 127.0.0.1 r1---sn-8xgp1vo-xfgd.googlevideo.com
 127.0.0.1 r2---sn-8xgp1vo-xfgd.googlevideo.com
