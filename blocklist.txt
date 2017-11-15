@@ -50,6 +50,8 @@
 127.0.0.1 adtech.de
 127.0.0.1 www.hmads.se
 127.0.0.1 leads.reco.se
+securepubads.g.doubleclick.net
+resources.host.bannerflow.com
 #youtube test
 127.0.0.1 r1---sn-8xgp1vo-xfgd.googlevideo.com
 127.0.0.1 r2---sn-8xgp1vo-xfgd.googlevideo.com
@@ -148,6 +150,7 @@
 127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.mo.doubleclick.net
+
 127.0.0.1 doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 pagead.googlesyndication.com
